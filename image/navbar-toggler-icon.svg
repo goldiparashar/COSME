@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>download-svg</title>
+	<defs>
+		<image  width="24" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAASAgMAAAA8gvYNAAAAAXNSR0IB2cksfwAAAAlQTFRF/0VF/0VFAAAAZX+nJgAAAAN0Uk5Tv/8Ap1CAgQAAABdJREFUeJxjEA0FghAGKLUKDIihqKIPAFLhOj/w3wDgAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { opacity: .7;fill: #ff4545;stroke: #212529;stroke-linecap: round;stroke-miterlimit:10;stroke-width: 2 } 
+	</style>
+	<path id="Layer" class="s0" d="m4 7h22m-22 8h22m-22 8h22"/>
+	<use id="Layer 1" href="#img1" x="3" y="6"/>
+</svg>
